@@ -5,6 +5,7 @@ iControl and iCuts will be merged.
 
 > - 06/06/2022
 A new shortcut called iMusic appears.
+[Trailer](https://cdn.glitch.global/d94f3f37-8e48-4ccd-a7db-dc867e8a42f6/trim.iMusic_Trailer.MOV?v=1654429630219.com)
 
 > - 06/06/2020
 iControl 1.7.0 appears.
