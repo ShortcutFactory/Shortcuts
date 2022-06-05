@@ -1,7 +1,7 @@
 ## Announcements
 
 > - June 2022
-iControl and iCuts will be merged.
+iControl and [iCuts](https://routinehub.co/shortcut/11364/) will be merged.
 
 > - 06/06/2022
 A new shortcut called iMusic appears.
