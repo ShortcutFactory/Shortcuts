@@ -1,6 +1,6 @@
 ## Announcements
 
-> - 06/2022
+> - June 2022
 iControl and iCuts will be merged.
 
 > - 06/06/2022
