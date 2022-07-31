@@ -1,6 +1,6 @@
 ## Announcements
 
-> - July/August 2022:
+> - August 2022:
 iControl and [iCuts](https://routinehub.co/shortcut/11364/) will be merged.
 (Not Save)
 
