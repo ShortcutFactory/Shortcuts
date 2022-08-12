@@ -10,4 +10,4 @@ A new shortcut called [iPadOS 16 original wallpaper](https://routinehub.co/short
 [Announcements 2.0](https://routinehub.co/shortcut/12141/) is released.
 
 > - 07/24/2022:
-[iControl 1.7.0.2](https://routinehub.co/shortcut/10743/) is released.
+A new shortcut called [remove objects from pictures](https://routinehub.co/shortcut/12800/) is released.
