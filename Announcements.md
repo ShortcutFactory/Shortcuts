@@ -1,7 +1,7 @@
 ## Announcements
 
-> - 9/8/2022:
-iControl and [iCuts](https://routinehub.co/shortcut/11364/) been merged. (iControl 1.8.0)
+> - xx/10/2022:
+It is planned that playback will be stopped at iControl's startup sound and resumed after sound.
 
 > - 08/05/2022:
 A new shortcut called [iPadOS 16 original wallpaper](https://routinehub.co/shortcut/12748/) is released.
@@ -9,5 +9,5 @@ A new shortcut called [iPadOS 16 original wallpaper](https://routinehub.co/short
 > - 08/12/2022:
 [Announcements 2.0](https://routinehub.co/shortcut/12141/) is released.
 
-> - 07/24/2022:
-A new shortcut called [remove objects from pictures](https://routinehub.co/shortcut/12800/) is deleted.
+> - 10/22/2022:
+[iControl 1.8.1](https://routinehub.co/shortcut/10743/) is released.
